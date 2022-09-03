@@ -1,4 +1,5 @@
-# ME748-Project-Theo-Jensen
+# ME748-Project
+## Optimization of Theo-Jensen Mechanism's Link Lengths
 
 The Theo-Jansen linkage is an eleven-bar mechanism designed by Theo Jansen in his collection “Strandbeest.” The mechanism is crank driven and mimics the motion of a leg. Its energy efficiency, and predeterminable foot motion show promise of applicability in legged robotics. Theo Jansen himself has demonstrated the usefulness of the mechanism through his "strandbeest” sculptures that utilize duplicates of the linkage whose cranks are turned by wind sails to supply a walking motion. The motion yielded is smooth flowing and comparatively agile. Because the linkage has been recently invented within a previous couple of decades, walking movement is currently the first application. Further investigation and optimization could cause more useful applications that need an identical output path when simplicity in design is important.
 
